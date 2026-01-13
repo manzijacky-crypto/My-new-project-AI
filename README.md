@@ -25,8 +25,7 @@ Users: Busy professionals, elderly residents seeking a hobby, and schools teachi
 User Needs: The interface must be "set and forget"—simple enough for non-technical users but data-rich for enthusiasts.
 
 Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![vegetables](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
 
 '''
