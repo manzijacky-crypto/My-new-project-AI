@@ -1,10 +1,6 @@
 # My-new-project-AI
-AI Introduction and Ethics
-# Project Title
-
 GreenSync Community Hub
 
-## Summary
 GreenSync is an IoT-powered urban gardening system designed to help city dwellers grow their own food with minimal water waste. By using smart sensors and a community-sharing app, it turns neglected balcony spaces into productive micro-farms.
 
 ## Background
@@ -34,35 +30,29 @@ Once you upload an image to your repository, you can link link to it like this (
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
+'''
 def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
+    countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
+    pop = [5615000, 5439000, 324000, 5080000, 9609000]
+    fishers = [1891, 2652, 3800, 11611, 1757]
+    
+    totPop = sum(pop)
+    totFish = sum(fishers)  # removed the extra period
+    
+    for i in range(len(countries)):
+        # Calculate the percentage of fishers relative to population
+        percentage = (fishers[i] / pop[i]) * 100
+        print("%s %.2f%%" % (countries[i], percentage))
 
 main()
-```
-
+'''
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+I don't collect data myself. My training data comes from Anthropic, who gathered it from various sources to train me. Here's what I understand about where that data came from:
+Public web content: A large portion consists of publicly available text from the internet, including websites, articles, books, and other written material that was available up to my training cutoff.
+Licensed datasets: Anthropic likely used commercially licensed datasets that aggregate text from various sources.
+Partnerships: Some data may come through partnerships with organizations that provide training data.
+Filtered content: The data goes through filtering processes to remove personal information, low-quality content, and harmful material.
 
 ## Challenges
 
