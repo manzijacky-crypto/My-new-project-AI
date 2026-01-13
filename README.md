@@ -24,7 +24,7 @@ Environment: Densely populated urban areas, balconies, or community rooftops.
 Users: Busy professionals, elderly residents seeking a hobby, and schools teaching sustainability.
 User Needs: The interface must be "set and forget"—simple enough for non-technical users but data-rich for enthusiasts.
 
-![Tree](https://upload.wikimedia.org/wikipedia/commons/5/5e/Planted_tree_in_the_forest.jpg)
+![Tree](https://upload.wikimedia.org/wikipedia/commons/5/5e/[Planted_tree_in_the_forest](https://share.google/images/69Fj2MsFWrEN2Xzyn).jpg)
 '''
 def main():
     countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
@@ -70,6 +70,5 @@ To scale this project, I aim to integrate AI-driven crop rotation suggestions th
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+https://share.google/images/69Fj2MsFWrEN2Xzyn
 view rawBuilding AI README template hosted with ❤ by GitHub
