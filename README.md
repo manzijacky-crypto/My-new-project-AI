@@ -24,8 +24,7 @@ Environment: Densely populated urban areas, balconies, or community rooftops.
 Users: Busy professionals, elderly residents seeking a hobby, and schools teaching sustainability.
 User Needs: The interface must be "set and forget"—simple enough for non-technical users but data-rich for enthusiasts.
 
-Images will make your README look nice!
-![trees](https://upload.wikimedia.org/wikipedia/commons/5/5e/planted trees.jpg)
+
 
 
 '''
