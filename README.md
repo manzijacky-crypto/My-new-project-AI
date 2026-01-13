@@ -24,9 +24,7 @@ Environment: Densely populated urban areas, balconies, or community rooftops.
 Users: Busy professionals, elderly residents seeking a hobby, and schools teaching sustainability.
 User Needs: The interface must be "set and forget"—simple enough for non-technical users but data-rich for enthusiasts.
 
-
-
-
+![Tree](https://upload.wikimedia.org/wikipedia/commons/5/5e/Planted_tree_in_the_forest.jpg)
 '''
 def main():
     countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
