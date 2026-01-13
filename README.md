@@ -25,7 +25,7 @@ Users: Busy professionals, elderly residents seeking a hobby, and schools teachi
 User Needs: The interface must be "set and forget"—simple enough for non-technical users but data-rich for enthusiasts.
 
 Images will make your README look nice!
-![vegetables](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![vegetables](https://upload.wikimedia.org/wikipedia/commons/5/5e/green vegatables.jpg)
 
 
 '''
